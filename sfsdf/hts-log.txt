@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 21 Sep 2022 23:45:13 at https://www.metamask.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "es, en, *" https://www.metamask.io/ -O1 "C:\Mis lugares Web\sfsdf" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:45:15	Warning: 	Moved Permanently for https://www.metamask.io/robots.txt
+23:45:15	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.metamask.io/robots.txt and https://metamask.io/robots.txt
+23:45:15	Warning: 	Warning moved treated for https://www.metamask.io/robots.txt (real one is https://metamask.io/robots.txt)
+23:45:15	Warning: 	Moved Permanently for https://www.metamask.io/
+23:45:15	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.metamask.io/ and https://metamask.io/
+23:45:15	Warning: 	File has moved from https://www.metamask.io/ to https://metamask.io
+23:45:16	Warning: 	No data seems to have been transferred during this session! : restoring previous one!

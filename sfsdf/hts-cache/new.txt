@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+23:45:15	65/65	---M--	301	error ('Moved%20Permanently')	text/html	date:Thu,%2022%20Sep%202022%2002:45:15%20GMT	https://www.metamask.io/robots.txt		(from )
+23:45:15	54/54	---M--	301	error ('Moved%20Permanently')	text/html	date:Thu,%2022%20Sep%202022%2002:45:16%20GMT	https://www.metamask.io/	C:/Mis%20lugares%20Web/sfsdf/www.metamask.io/index.html	(from )
